@@ -1,0 +1,14 @@
+fn solution() -> i32 {
+  1 + 2
+}
+
+#[cfg(test)]
+mod tests {
+  use super::*;
+
+  #[test]
+  fn inital_test() {
+    let solution = solution();
+    assert_eq!(3, 3);
+  }
+}
