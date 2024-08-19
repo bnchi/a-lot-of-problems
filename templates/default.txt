@@ -3,7 +3,7 @@ fn solution() -> i32 {
 }
 
 #[cfg(test)]
-mod tests {
+mod test_{{problem_id}} {
   use super::*;
 
   #[test]
