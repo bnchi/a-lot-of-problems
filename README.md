@@ -1,3 +1,3 @@
 | ID | Solution |
 |----------|----------|
-| 1480 | [solution](/bnchi/a-lot-of-problems/blob/main/src/solutions/s_1480.rs) |
+| 1480 | [solution](/src/solutions/s_1480.rs) |
